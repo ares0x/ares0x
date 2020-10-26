@@ -1,4 +1,4 @@
-### Hi there，I'm Ares 👋
+### Hey there，I'm Ares 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ares0x)](https://github.com/anuraghazra/github-readme-stats)
 <!--
