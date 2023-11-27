@@ -1,17 +1,13 @@
 ### Hey there，I'm Ares 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ares0x)](https://github.com/anuraghazra/github-readme-stats)
+[![Ares's github stats](https://github-readme-stats.vercel.app/api?username=ares0x)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ares0x/ares0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-  🌱 I’m currently learning Golang,C && Cpp.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+- 💼 Backend Engineer.
+
+- ❤️ I love writing Golang and Python. I am currently learning TypeScript.
+
+
